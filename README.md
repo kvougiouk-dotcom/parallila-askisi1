@@ -23,6 +23,7 @@
 Για τη σωστή βελτιστοποίηση και ενεργοποίηση του OpenMP, χρησιμοποιήστε την εντολή:
 ```bash
 gcc -O2 -fopenmp Par_Sys_Ask1.c -o Par_Sys_Ask1 -lm
-
-### Εκτέλεση (Execution): 
+```
+### 2. Εκτέλεση (Execution): 
+```bash
 ./Par_Sys_Ask1
